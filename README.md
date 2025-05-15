@@ -23,13 +23,13 @@ The Multi Date Picker plugin adds a new custom field type to your Strapi applica
 ## ⚡ Installation
 ```bash
 # Using npm
-npm install multi-date-picker
+npm install @vasild/multi-date-picker
 
 # Using yarn
-yarn add multi-date-picker
+yarn add @vasild/multi-date-picker
 
 # Using pnpm
-pnpm add multi-date-picker
+pnpm add @vasild/multi-date-picker
 ```
 
 ## 🚀 Usage
@@ -50,18 +50,6 @@ Now when creating or editing entries, content editors will be able to select mul
 - Responsive design for all screen sizes
 
 ## 💻 API Reference
-
-### Field Configuration
-
-The plugin registers a custom field type with the following properties:
-
-```typescript
-{
-  name: 'multiDatePicker',
-  type: 'json',
-  // Other configuration properties
-}
-```
 
 ### Data Structure
 

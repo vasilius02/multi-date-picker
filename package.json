@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "0.0.1",
   "keywords": [],
   "type": "commonjs",
   "exports": {
@@ -63,7 +63,7 @@
     "displayName": "Multi Date Picker",
     "description": "A plugin that allows for selection of multiple singular dates in Strapi"
   },
-  "name": "multi-date-picker",
+  "name": "@vasild/multi-date-picker",
   "description": "A plugin that allows for selection of multiple singular dates in Strapi",
   "license": "MIT",
   "repository": {
